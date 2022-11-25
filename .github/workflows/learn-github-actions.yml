@@ -5,7 +5,7 @@ name: DevOps UE3
 run-name: Audit, Build and Deploy
 on:
   push:
-    branches: [ main ]
+    branches: [ master ]
 jobs:
   audit:
     name: npm audit
