@@ -1,5 +1,5 @@
 env:
-  DOCKER_NAME: robert-public-todo
+  DOCKER_NAME: robert-todo-app
 
 name: DevOps UE3
 run-name: Audit, Build and Deploy
